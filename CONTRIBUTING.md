@@ -39,6 +39,7 @@ Start reading our code and you'll get the hang of it. We hope. We try to optimiz
   * Also for the portability, always use cwd-relative paths rather than root-relative paths in file URLs. So instead of url('/images/blah.gif'), use url('../images/blah.gif').
 
 Thank you,
+
 The Blockchain for Industrial Applications Community Of Interest Members
 
 P.S. This CONTRIBUTING.md is based on the [OpenGovernment Project's](https://github.com/opengovernment/opengovernment) file. Thanks for generating a great example.
